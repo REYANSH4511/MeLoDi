@@ -1,0 +1,32 @@
+/* Add the following styles to your CSS file or App.css */
+table {
+  width: 98%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+th,
+td {
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+.data {
+  cursor: pointer;
+  color: #0366fc;
+}
+.data:hover {
+  color: hotpink;
+}
+.head {
+  color: whitesmoke;
+  text-decoration: solid;
+  padding: 10px;
+  background-color: #0366fc;
+  font-size: xx-large;
+}
